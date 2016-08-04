@@ -2,7 +2,6 @@
   font-family: 'Comic-Sans';
   text-align: center;
   font-weight: bold;
-  color: black;
 }
 
 body {
@@ -23,20 +22,8 @@ a {
   text-decoration: none;
 }
 
-a:link {
-  color: #33DD33;
-}
-
-a:active {
-  color: #6A5ACD;
-}
-
 a:hover {
   text-decoration: underline;
-}
-
-a:visited {
-  color: #33FFFF;
 }
 
 footer {
